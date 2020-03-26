@@ -3,7 +3,7 @@ public class FirstClass {
         System.out.println("Hello world");
         System.out.println("someone"); 
         System.out.println("change one");//coment
-          System.out.println("change two");
+          System.out.println("change two");//
          System.out.println("change three");
         //first change
         //another change
